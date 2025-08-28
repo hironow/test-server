@@ -32,4 +32,10 @@ sdks/typescript/sample/node_modules/
 sdks/typescript/sample/dist/
 
 # Python SDK specific
-sdks/python/bin/
+sdks/python/src/test_server_sdk/__pycache__
+sdks/python/__pycache__
+sdks/python/test_server_sdk.egg-info/
+
+# Python SDK Sample specific
+sdks/python/sample/__pycache__
+sdks/python/sample/.pytest_cache
